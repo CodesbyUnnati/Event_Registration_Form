@@ -12,7 +12,8 @@ This is a simple Registration form template that can be used to extract the user
 <li>Bootstrap</li>
 
 <h1>Other Resources</h1>
-<li><a href="bootstrapmade.com"Bootstrap Template references</a></li>
+<b><a href="bootstrapmade.com">Bootstrap Template references</a></b>
+
 
 
 
